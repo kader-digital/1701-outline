@@ -20,7 +20,7 @@ header {
     padding: 0 2% 0 0;
 }
 
-.h3:hover {
+a .h3:hover {
 
     text-align: right;
     opacity: 60%;
