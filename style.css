@@ -25,6 +25,7 @@ a .h3:hover {
     text-align: right;
     opacity: 60%;
     padding: 0 2% 0 0;
+    color: orange;
 
 }
 
@@ -92,4 +93,19 @@ input {
     opacity: 50%;
 
 }
+
+.footer-container {
+
+    
+
+}
+
+.footer-container:hover {
+    opacity: 60%; 
+    color: orange;
+}
+
+
+
+
 
