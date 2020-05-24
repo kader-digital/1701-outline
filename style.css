@@ -16,13 +16,13 @@ header {
 }
 
 .h3 {
-    text-align: right;
+    text-align: center;
     padding: 0 2% 0 0;
 }
 
 a .h3:hover {
 
-    text-align: right;
+    text-align: center;
     opacity: 60%;
     padding: 0 2% 0 0;
     color: orange;
