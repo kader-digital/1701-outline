@@ -1,0 +1,34 @@
+
+h1, h3 {
+    text-align: left;
+    display: inline;
+}
+
+.phone {
+    text-align: right;
+    display: flex;
+    font-family: hack;
+    
+}
+
+.top-container {
+    text-align: right;
+    width: 50%;
+    height: 50%;
+    display: flex-block;
+}
+
+.container, a, {
+    width: 40%;
+    font-family: hack;
+    text-align: left;
+    float: right;
+    display: block;
+
+}
+
+.image-container {
+    text-align: center;
+    display: block;
+
+}
