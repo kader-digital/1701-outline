@@ -57,9 +57,15 @@ h3 {
 
 .foot-container {
     display: block;
+    vertical-align: middle;
     opacity: 50%;
-    float: space-center;
+    float: center;
     width: 100%;
     margin: auto;
+}
+
+*:hover {
+    color: orange;
+    opacity: 74%;
 }
 
