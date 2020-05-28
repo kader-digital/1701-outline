@@ -1,7 +1,7 @@
 
 h1, h3 {
     text-align: left;
-    display: inline;
+    display: block;
 }
 
 .phone {
@@ -11,24 +11,38 @@ h1, h3 {
     
 }
 
-.top-container {
-    text-align: right;
-    width: 50%;
-    height: 50%;
-    display: flex-block;
+.header-container {
+    display: block;
+    float: center;
+    margin: auto;
 }
 
+
 .container, a, {
-    width: 40%;
     font-family: hack;
-    text-align: left;
-    float: right;
-    display: block;
+    width: 100%;
+    float: left;
+    display: inline-block;
 
 }
 
 .image-container {
-    text-align: center;
+
+    float: left;
     display: block;
+    padding: 0 2px 0 0; 
 
 }
+
+.right-container {
+    display: inline-block;
+    float: left:
+    width: 100%
+}
+
+.foot-container {
+    display: inline-block;
+    width: 100%;
+    margin: auto;
+}
+
