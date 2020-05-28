@@ -14,6 +14,10 @@ html {
  header {
      width: 100%;
      margin: auto;
+     padding: auto;
+     opacity: 95%;
+     overflow: visible;
+     float: center;
  }
 
  a {

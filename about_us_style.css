@@ -2,6 +2,8 @@
 * {
    
     font-family: hack;
+    color: black;
+    text-decoration: none;
 
      }
 
@@ -39,21 +41,24 @@ h3 {
 
     opacity: 88%;
     float: left;
-    margin: auto;
-    display: block;
+    margin: 5px 5px 5px 0px;
+    padding: 5px 5px 5px 5px;
+    display: inline-block;
     padding: 0 2px 0 0; 
 
 }
 
 .right-container {
     display: inline-block;
-    float: left:
+    float: left;
     margin: auto;
     width: 100%
 }
 
 .foot-container {
-    display: inline-block;
+    display: block;
+    opacity: 50%;
+    float: space-center;
     width: 100%;
     margin: auto;
 }
