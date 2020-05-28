@@ -1,0 +1,15 @@
+html {
+
+    font-family: hack;
+    text-align: left;
+    margin: auto;
+    padding: auto;
+}
+
+.home:hover {
+    color: orange;
+    opacity: 70%;
+}
+
+
+
