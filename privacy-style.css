@@ -1,9 +1,13 @@
-html {
+.container {
 
     font-family: hack;
-    text-align: left;
+    text-align: space-around;
     margin: auto;
     padding: auto;
+    text-decoration: none;
+    color: black;
+
+
 }
 
 .home:hover {
@@ -11,5 +15,18 @@ html {
     opacity: 70%;
 }
 
+.button {
 
+    float: space-around;
+    text-align: center;
+
+}
+
+*:hover {
+    border-style: solid double;
+    text-align: space-around;
+    float: center; 
+    opacity: 60%;
+    color: orange;
+}
 
