@@ -6,13 +6,25 @@
     padding: auto;
     text-decoration: none;
     color: black;
-
+    float: center;
 
 }
 
-.home:hover {
+.home {
     color: orange;
     opacity: 70%;
+    text-decoration: none;
+    float: center;
+    content-align: center;
+    
+}
+
+p {
+    width: 47%;
+    opacity: 95%;
+    content-align: center;
+    float: center;
+    margin: auto;
 }
 
 .button {
